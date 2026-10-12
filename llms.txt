@@ -1,0 +1,20 @@
+# Soumya Gupta
+
+> Applied AI Technical Lead (Computer Vision & Generative AI) at Uber. 10+ years building production-grade AI systems. Holder of three granted US patents and several pending applications. Published researcher and conference speaker.
+
+Soumya Gupta leads computer vision and generative AI work for Uber Eats, owning end-to-end systems that process millions of images globally. She previously built computer-vision and sensor-validation systems for oilfield drilling operations at Schlumberger, resulting in three granted US patents, multiple pending patent applications, and peer-reviewed publications at SPE/IADC conferences. She holds a Master of Engineering from UC Berkeley and a B.E. (Honors) from BITS Pilani.
+
+## Key facts
+- Current role: Applied AI Technical Lead, Computer Vision & Applied AI, Uber (2021–present)
+- Prior role: Machine Learning Engineer, Schlumberger (2018–2021)
+- Granted US patents: 11,920,454; 12,136,267; 12,123,294
+- Education: M.Eng., UC Berkeley; B.E. (Honors), BITS Pilani
+- Conference talks: AI Engineer World's Fair 2026, AI DevCraft, NeurIPS 2025 (poster, San Diego), NeurIPS 2019 (poster, Vancouver), DeveloperWeek 2027
+
+## Pages
+- [Full profile, experience, patents, publications, speaking & press](https://guptasoumya12.github.io/)
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/guptasoumya12/
+- GitHub: https://github.com/guptasoumya12
+- X/Twitter: https://x.com/guptasoumya12
