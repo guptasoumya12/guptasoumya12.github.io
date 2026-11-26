@@ -9,7 +9,7 @@ Soumya Gupta leads computer vision and generative AI work for Uber Eats, owning 
 - Prior role: Machine Learning Engineer, Schlumberger (2018–2021)
 - Granted US patents: 11,920,454; 12,136,267; 12,123,294
 - Education: M.Eng., UC Berkeley; B.E. (Honors), BITS Pilani
-- Conference talks: AI Engineer World's Fair 2026, AI DevCraft, NeurIPS 2025 (poster, San Diego), NeurIPS 2019 (poster, Vancouver), DeveloperWeek 2027
+- Conference talks: AI Engineer World's Fair 2026, AI DevCraft, NeurIPS 2025 Women in Machine Learning Workshop (poster: "Auto-Prompt-Tuner: A Framework for Meta-LLM Driven Prompt Optimization," San Diego; also a reviewer for the workshop), NeurIPS 2019 (poster, Vancouver), DeveloperWeek 2027
 
 ## Pages
 - [Full profile, experience, patents, publications, speaking & press](https://guptasoumya12.github.io/)
@@ -18,3 +18,4 @@ Soumya Gupta leads computer vision and generative AI work for Uber Eats, owning 
 - LinkedIn: https://www.linkedin.com/in/guptasoumya12/
 - GitHub: https://github.com/guptasoumya12
 - X/Twitter: https://x.com/guptasoumya12
+- Google Scholar: https://scholar.google.com/citations?user=jqRMdgMAAAAJ&hl=en
